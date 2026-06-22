@@ -202,4 +202,4 @@ p.s: readme.md и сам плагин писался без ИИ, так что 
 ну делал как обычно пацик с России, поэтому денег не прошу, пользуйтесь на здоровье.
 дайте лучше заказов побольше, лады?
 
-berg — [https://nikitaberg.ru](https://nikitaberg.ru)
+почекайте тут: [https://nikitaberg.ru](https://nikitaberg.ru)
