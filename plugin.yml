@@ -1,0 +1,7 @@
+name: ElytraFly
+version: 1.0.0
+main: berg\ElytraFly\ElytraFly
+api: 5.0.0
+author: berg
+website: https://nikitaberg.ru
+description: "Ванильная механика полета на элитрах для NG и PMMP"

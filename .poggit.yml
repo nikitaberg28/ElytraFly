@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest
+build-by-default: true
+branches:
+  - main
+projects:
+  ElytraFly:
+    path: ""
+    icon: Icon.png
+...

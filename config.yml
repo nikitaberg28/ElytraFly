@@ -1,0 +1,5 @@
+language: en # ru - русский @ russian / en - английский @ english
+elytra-durability: 432 # прочность элитр
+elytra-breakable: true # есть ли вообще разрушимость у элитр? true - да / false - нет
+elytra-in-creative: true # будут ли элитры в творческом режиме? true - да / false - нет
+cancel-fall-damage: true # отключать ли урон от падения на элитрах? true - да / false - нет. Это очень сломанная функция, так как у меня не получается перенести физику из BDS в PHP, если у вас получится перенести, то делайте pull-request на гитхабе

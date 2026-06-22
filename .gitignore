@@ -1,0 +1,12 @@
+#.gitignore
+/.idea/
+/workspace.xml
+/tasks.xml
+.DS_Store
+Thumbs.db
+*.log
+
+# Папки сборки/запуска (если тестируешь локально)
+/bin/
+/vendor/
+/plugins/
