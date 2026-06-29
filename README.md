@@ -3,8 +3,8 @@
 # ElytraFly
 
 [![API](https://img.shields.io/badge/API-5.0.0+-blue?style=flat-square)](https://github.com/pmmp/PocketMine-MP)
-[![PMMP](https://img.shields.io/badge/PocketMine--MP-5.43+-green?style=flat-square)](https://github.com/pmmp/PocketMine-MP)
-[![NetherGames](https://img.shields.io/badge/NetherGames-5.43+-orange?style=flat-square)](https://github.com/NetherGamesMC)
+[![PMMP](https://img.shields.io/badge/PocketMine--MP-5.0.0+-green?style=flat-square)](https://github.com/pmmp/PocketMine-MP)
+[![NetherGames](https://img.shields.io/badge/NetherGames-5.0.0+-orange?style=flat-square)](https://github.com/NetherGamesMC)
 [![ElytraFly](https://poggit.pmmp.io/shield.state/ElytraFly)](https://poggit.pmmp.io/p/ElytraFly)
 
 [English](#english) / [Русский](#русский)
