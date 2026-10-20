@@ -21,7 +21,7 @@ Single plugin that handles everything elytra-related. No more juggling 3–4 sep
 ### Configuration
 
 ```yaml
-language: en # english or russian, default is en. Set ru for russian.
+language: en # english or russian, default is en.
 elytra-durability: 432 # elytra durability
 elytra-breakable: true # can elytra break at all? true - yes / false - no
 elytra-in-creative: true # show elytra in creative mode? true - yes / false - no
@@ -113,7 +113,7 @@ ElytraFlyAPI::isNetherGames(); // bool
 ### Конфигурация
 
 ```yaml
-language: en # русский или английский, по дэфолту en английский, поставь ru - чтобы стать Zа наших.
+language: en # русский или английский, по дэфолту en английский
 elytra-durability: 432 # прочность элитр
 elytra-breakable: true # есть ли вообще разрушимость у элитр? true - да / false - нет
 elytra-in-creative: true # будут ли элитры в творческом режиме? true - да / false - нет
@@ -199,8 +199,8 @@ ElytraFlyAPI::isNetherGames(); // bool
 
 Закидывай ссылкой в нейросеть, или скачай readme.md и закинь внутрь нейронки, она быстро изучит api и напишет плагин используя стабильный api моего плагина.
 
-p.s: сам плагин писался без ИИ, readme.md написан тоже без ИИ кроме переработки орфографии и перевода на английский, так что есть смысл использовать именно этот плагин(такое редкость щас)
+p.s: сам плагин писался без ИИ, readme.md написан тоже без ИИ кроме переработки орфографии, пунктуации и перевода на английский, так что есть смысл использовать именно этот плагин
 
-ну делал как обычно пацик с России, пользуйтесь на здоровье, лады?
 
-почекайте еще вот тут: [https://nikitaberg.ru](https://nikitaberg.ru) и закиньте старку на репозиторий pls.
+рекламка 👇👇👇
+ахуенные сайты на заказ вот тут: [nikitaberg.ru](https://nikitaberg.ru)
